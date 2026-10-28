@@ -43,15 +43,6 @@ Currently, I build clinical AI systems, including domain-adapted language models
 
 Also working with **LangGraph, WebAssembly, spaCy, scispaCy, SHAP, Seurat, Monocle3, DESeq2, Docker, GitLab CI/CD, Elasticsearch, Kibana, Neo4j, and SLURM**.
 
-### Selected work
-
-- **[FederatedLearning-ExplainableAI](https://github.com/karthiksekaran/FederatedLearning-ExplainableAI)** — Federated learning and explainable AI for healthcare settings.
-- **[metatranscriptomics-biomarker-analysis](https://github.com/karthiksekaran/metatranscriptomics-biomarker-analysis)** — A platform for multi-omics analysis and visualization.
-- **[disease-prediction-embeddings](https://github.com/karthiksekaran/disease-prediction-embeddings)** — Offline medical-condition prediction using text embeddings.
-- **[singlecell](https://github.com/karthiksekaran/singlecell)** — Single-cell transcriptomic analysis of gastric cancer.
-- **[ilpd_explainableAI](https://github.com/karthiksekaran/ilpd_explainableAI)** — Explainable liver-disease prediction with SHAP.
-- **[clinical_mcp](https://github.com/karthiksekaran/clinical_mcp)** — An MCP application for SMILES-to-IUPAC conversion and conversational querying.
-
 ### Research interests
 
 `Clinical AI` · `Biomedical NLP` · `Multi-omics` · `Biomarker discovery` · `Explainable AI` · `Federated learning` · `Precision health` · `Eipdemiology` · `Public health`
