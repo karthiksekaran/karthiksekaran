@@ -56,11 +56,3 @@ Also working with **LangGraph, WebAssembly, spaCy, scispaCy, SHAP, Seurat, Monoc
 
 `Clinical AI` · `Biomedical NLP` · `Multi-omics` · `Biomarker discovery` · `Explainable AI` · `Federated learning` · `Precision health` · `Eipdemiology` · `Public health`
 
-### Find me
-
-- [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/)
-- [ORCID](https://orcid.org/0000-0002-1969-7632)
-- [Email](mailto:karthiksofficiallog@gmail.com)
-
----
-
