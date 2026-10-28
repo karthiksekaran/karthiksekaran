@@ -18,14 +18,13 @@
 
 ### About me
 
-I work at the intersection of **machine learning, bioinformatics, and clinical data science**. My work spans clinical-trial automation, medical NLP, multi-omics analysis, biomarker discovery, and explainable and federated AI.
+I work at the intersection of **machine learning, bioinformatics, medical ontology and clinical data science**. My work spans clinical-trial automation, medical NLP, multi-omics analysis, biomarker discovery, and explainable and federated AI.
 
 Currently, I build clinical AI systems, including domain-adapted language models, retrieval pipelines for clinical documents, and tools for clinical-trial feasibility analysis.
 
 - Ph.D. in Computer Science (Bioinformatics)
 - Interested in trustworthy AI for healthcare and biomedical research
 - Experience across clinical data, genomics, transcriptomics, metagenomics, and single-cell analysis
-- Based in Vellore
 
 ### Tech stack
 
